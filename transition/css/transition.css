@@ -1,0 +1,19 @@
+div {background:#8de675; 
+  color:#ffffff;
+   height:50px;
+  width:50px;
+  text-align:center;
+  transition:width 2s, height 2s;
+  line-height: 50px;
+  transition: 1s ease-in-out;
+}
+div:hover{
+  background:#182c73;
+    border-radius:80px;
+  transition: width 2s height 2s;
+  line-height: 100px;
+  height:100px;
+  width:100px;
+  transition: 1s ease-in-out;
+
+}
